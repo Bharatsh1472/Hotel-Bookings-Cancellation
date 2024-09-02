@@ -1,4 +1,4 @@
-# Hotel-Bookings-Cancellation
+# Hotel-Bookings-Cancellation-Project
 Microsoft Excel project.
 <br>
 Author - Bharat Sharma
